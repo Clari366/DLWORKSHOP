@@ -2,7 +2,7 @@
 
 # Income Classification using PyTorch
 
-This project demonstrates how to build a **deep learning model with embeddings for categorical data** to predict whether a person’s income is greater than or less than $50K.  
+This project demonstrates how to build a **deep learning model with embeddings for categorical data** to predict whether a person’s income is greater than or less than 50K.  
 
 ## 📂 Dataset
 - The dataset used is `income.csv` (based on the UCI Adult dataset).
